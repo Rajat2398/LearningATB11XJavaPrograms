@@ -1,8 +1,6 @@
 package ex_02_Java_Basic_Part2;
 
-import org.w3c.dom.ls.LSOutput;
 
-import java.sql.SQLOutput;
 
 public class Lab020_Interview {
     public static void main(String[] args) {
