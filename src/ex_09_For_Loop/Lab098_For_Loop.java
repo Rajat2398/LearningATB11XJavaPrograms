@@ -6,7 +6,7 @@ public class Lab098_For_Loop {
     //for loop
         //help you to repeat a block of code
 
-        //Initialization-> Condition->updation )(Increment/Decrement)
+        //Initialization-> Condition->updation (Increment/Decrement)
         // ICU
 
 
