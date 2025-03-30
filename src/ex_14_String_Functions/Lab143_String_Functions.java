@@ -1,6 +1,4 @@
-package ex_13_Strings;
-
-import java.util.Locale;
+package ex_14_String_Functions;
 
 public class Lab143_String_Functions {
     public static void main(String[] args) {
