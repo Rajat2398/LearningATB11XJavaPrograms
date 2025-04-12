@@ -1,6 +1,6 @@
 package ex_30_exception;
 
-public class Lab221_TryCatch {
+public class Lab222_TryCatch_Multiple {
 
     public static void main(String[] args) {
 
@@ -11,9 +11,9 @@ public class Lab221_TryCatch {
             System.out.println("Hey buddy, its Try and Ctach");
         }
 
-//   catch (Exception e) {
-//        System.out.println("Hey buddy, its Try and Ctach");
-//    }
+   catch (Exception e) {
+        System.out.println("Hey buddy, its Try and Ctach");
+    }
         System.out.println("2");
     }
 }
